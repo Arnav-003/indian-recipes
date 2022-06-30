@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+#logo{
+    width:250px;
+    height:250px; 
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+.Palak,.Tandoori,.Biriyani{
+    text-align: left;
+}
+.index-1,.Biriyani-1,.palak-paneer-1,.Tandoori_chicken-1{
+    width: 400px;
+    height: 400px;
+}
